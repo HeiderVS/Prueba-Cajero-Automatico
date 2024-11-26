@@ -1,5 +1,5 @@
 
-🏧 # de Cajero Automático
+*🏧  de Cajero Automático
 
 📋 ##Descripción del Proyecto
 Este proyecto es una simulación de un sistema de cajero automático que permite realizar **retiros de efectivo**. 
