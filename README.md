@@ -45,7 +45,7 @@ Flujo del Programa
    - No se aceptan cantidades superiores a las disponibles en el cajero.
    - No se permite recargar efectivo.
 
-## 🛠️ ##Requerimientos Técnicos
+## 🛠️ Requerimientos Técnicos
 - Lenguaje de Programación: [Java/Python/Node.js/etc.]
 - Base de Datos: [MySQL/PostgreSQL/etc.]
 - Interfaz de Usuario: Libre (consola, web o móvil).
